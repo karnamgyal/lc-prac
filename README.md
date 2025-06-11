@@ -1,2 +1,2 @@
-# code-sync
-Coding solutions automatically synced from dotpush extension - https://dotpush.ca/
+# lc-prac
+Folder for practice problems.
