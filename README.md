@@ -1,2 +1,2 @@
 # lc-prac
-Folder for practice problems.
+My leetcode problem solutions and a tool to keep track of the journey!
