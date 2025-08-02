@@ -1,2 +1,3 @@
 # lc-prac
-My leetcode problem solutions and a tool to keep track of the journey!
+My leetcode problem solutions to keep track of my progress. 
+Following NeetCode 150 and using dotpush to push solutions to GitHub.
